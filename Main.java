@@ -18,7 +18,7 @@ class Main {
     //Step 8: If firstValue is between 40 and 42 AND lastValue is between 65 and 90 AND password length is greater than 7 THEN
     if (firstValue > 39 && firstValue < 43 && lastValue > 64 && lastValue < 91 && password.length() > 7) {  
     //Step 9: valid = true
-    valid =he true;
+    valid = true;
     }
     //Step 10: ELSE
     else{
